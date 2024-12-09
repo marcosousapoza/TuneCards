@@ -1,0 +1,3 @@
+kivy
+PyPDF2
+pyaudio
