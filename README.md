@@ -6,8 +6,6 @@ This application helps musicians study music effectively using flashcards. Featu
 - Audio recording
 - Flashcard suggestion algorithm
 
-test
-
 ## Milestones
 ### **Phase 1: Project Setup**
 - [ ] Set up project structure and directories.
